@@ -64,6 +64,9 @@ img{
 .d-flex{
     display: flex;
 }
+.flex-wrap{
+    flex-wrap: wrap;
+}
 .d-none{
     display: none;
 }
@@ -280,7 +283,6 @@ footer .content h3 {
     padding-bottom: 20px;
 
 }
-
 footer .content .card {
     color: black;
     background-color: #c9c5c5;
