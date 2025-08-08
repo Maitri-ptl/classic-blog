@@ -64,6 +64,9 @@ img{
 .d-flex{
     display: flex;
 }
+.d-none{
+    display: none;
+}
 
 .justify-content-between{
     justify-content: space-between;
